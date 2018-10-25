@@ -10,6 +10,18 @@ This script imports 2 images from ./Resources , modifies (rotates, resizes, inve
 
 Go to https://github.com/Blekiusz/Contract3.git to download Contract3 repository and run Contract3.py. Script will export edited file to ./Exported and call it "Exported_File.png".
 
+Algorithms:
+
+Contract3.py line 22
+
+Contract3.py line 66
+
+Contract3.py line 77
+
+Contract3.py line 94
+
+Contract3.py line 109
+
 My github username is: Blekiusz
 
 My github user number is: #43734168
